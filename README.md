@@ -31,7 +31,7 @@ The application implements key design patterns like **Generic Repository** and *
 ## Installation and Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fcimahmoud/MVC_PROJECT.git
+   git clone https://github.com/Abdallah9oo/MVC_Project.git
    cd MVC_PROJECT
 2. Open the solution in Visual Studio.
 3. Update the database connection string in appsettings.json under the Presentation Layer (PL):
